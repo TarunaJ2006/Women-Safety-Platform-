@@ -214,7 +214,7 @@ npm run build
 ## 🤝 Contributors
 
 - **Hasan**: Full Stack Development, Backend Architecture, API Design, Infrastructure, Testing
-- **Tarunaj**: Vision AI Model Implementation
+- **Tarunaj**: Developed YOLOv8-based vision module for real-time person detection and pose-based risk analysis, and contributed to integration with a multi-modal threat scoring system combining vision and audio inputs
 
 ---
 
